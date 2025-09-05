@@ -11,6 +11,15 @@ It was created as part of a software engineering assignment to demonstrate:
 Basic Level: Random word generation.
 Intermediate Level: Random phrase generation.
 
-### Timer functionality (15 seconds per guess; timeouts deduct a life).
-### Win/Loss conditions with pop-up notifications.
-### Restart and Quit options for continuous play.
+#### Timer functionality (15 seconds per guess; timeouts deduct a life).
+#### Win/Loss conditions with pop-up notifications.
+#### Restart and Quit options for continuous play.
+
+
+### Included report
+#### SoftwareUnitTestingReport
+
+### Included codebase
+#### hangman.py
+#### hangman_gui.py
+#### test_hangman.py
